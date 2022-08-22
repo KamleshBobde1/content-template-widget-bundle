@@ -1,4 +1,4 @@
-image: kamleshbobde/ent-strapi-template:1.1.1
+image: akhileshprajapatinv/ent-project-template:0.0.4
 dbms: none
 ingressPath: "/entando-template-api"
 healthCheckPath: "/actuator/health"

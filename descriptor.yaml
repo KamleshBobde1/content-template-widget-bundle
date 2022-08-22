@@ -1,4 +1,4 @@
-code: ent-prj-tmpl-bundle
+code: content-template-widget
 description: Template for ent projects
 components:
   plugins:
